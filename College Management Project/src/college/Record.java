@@ -40,8 +40,6 @@ public class Record {
 	public String toString()
 	{
 		// Returning the record
-		return "Records{"
-			+ "name=" + name + ", idNumber=" + idNumber
-			+ ", contactNumber=" + contactNumber + '}';
+		return "Records{"+ "name=" + name + ", idNumber=" + idNumber+ ", contactNumber=" + contactNumber + '}';
 	}
 }
